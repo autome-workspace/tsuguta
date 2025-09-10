@@ -43,3 +43,9 @@
 
 # vscode
 .vscode/
+
+# kicad files
+*-backups/
+*-cache
+*.zip
+gerber-*
